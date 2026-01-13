@@ -68,24 +68,3 @@ E-Grama is a smart digital village platform designed to modernize local governme
 
 ---
 
-##🧑‍💻 Authors
-
--Yashitha Ranod Dissanayaka 
-  -IT22145048@my.sliit.lk
-  -3rd Year IT Undergraduate @ SLIIT
-  -https://github.com/Yashitha12
-
--Deneth Eshaka
-  -IT22111074@my.sliit.lk
-  -3rd Year IT Undergraduate @ SLIIT
-  -https://github.com/ESHAKA22
-
--Hahini Tharushika
-  -IT22194626@my.sliit.lk
-  -3rd Year IT Undergraduate @ SLIIT
-  -https://github.com/HashiniTharushika
-
--Kulasooriya K.S.D
-  -IT22158840@my.sliit.lk
-  -3rd Year IT Undergraduate @ SLIIT
-  -https://github.com/suwini244
